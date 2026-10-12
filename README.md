@@ -1,4 +1,14 @@
 # Intermediate SQL for Data Scientists
+
+> **Note for students:** This is a copy of the LinkedIn Learning course repository with its GitHub Codespaces
+> setup repaired. As of October 2026, a codespace made from the original repository opens in "recovery mode"
+> without the course database. **Create your codespace from this repository:** click **Code → Codespaces →
+> Create codespace on main**. The first start takes a few minutes while it builds and loads the course database.
+>
+> Changes from the original, all in `.devcontainer/`: the container now uses Debian 12 (bookworm) instead of
+> Debian 11, which has reached end of life, and an unused Yarn package source with an expired key is removed.
+> The course files are unchanged.
+
 This is the repository for the LinkedIn Learning course Intermediate SQL for Data Scientists. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
